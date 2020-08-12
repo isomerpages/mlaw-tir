@@ -1,0 +1,40 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: About Minlaw
+  url: /about-minlaw/
+- title: About Tir
+  url: /about-tir/introduction/
+  sub-links:
+  - title: Introduction
+    url: /about-tir/introduction/
+  - title: Roadmap Development
+    url: /about-tir/roadmap-development/
+  - title: Four Key Questions Answered
+    url: /about-tir/four-key-questions-answered/
+- title: Trends
+  url: /trends/global-trends-shaping-the-legal-industry/
+  sub-links:
+  - title: Global Trends Shaping The Legal Industry
+    url: /trends/global-trends-shaping-the-legal-industry/
+  - title: Impact On Legal Services
+    url: /trends/impact-on-legal-services/
+- title: Getting Ready
+  url: /getting-ready/ops-tech-solutions/
+  sub-links:
+  - title: Ops Tech Solutions
+    url: /getting-ready/ops-tech-solutions/
+  - title: Government Initiatives
+    url: /getting-ready/government-initiatives/
+- title: News
+  url: /news/
+  sub-links:
+  - title: All
+    url: /news/
+  - title: Releases
+    url: /news/releases/
