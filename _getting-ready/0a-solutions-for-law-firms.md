@@ -32,7 +32,7 @@ Enhances efficiencies of back office functions.
  - Some allow remote access to client matters
 
  Solution Examples: 
->**[TESSARACT.IO](https://tessaract.io/)** - A collaborative platform that manages workflow, scheduling and billing of cases from initial execution to eventual completion. <br>
+>**[TESSARACT.IO](https://tessaract.io/)** - A collaborative platform that manages workflow, scheduling and billing of cases from initial execution to eventual completion. <br> <br>
 >**[CLIO](https://www.clio.com/)** - A cloud-based practice and case management solution and client intake and legal customer relationship management (CRM) software with mobile applications.
 
 ### 3. Front-Office Technology
@@ -69,6 +69,6 @@ Supports lawyers in the execution of rote legal tasks.
  Solution Examples: 
  
 
-> [INTELLLEX](https://intelllex.com/) - Automates categorisation of a law firm’s existing documents into a ready-to-use, easily searchable knowledge repository for reuse of legal research. <br>
->  [HOTDOCS-LAWCLOUD](https://plus.lawnet.sg/legal-apps/hotdocs-law-cloud) - A cloud-based document assembly software with an in-built client-matter structure. <br>
+> [INTELLLEX](https://intelllex.com/) - Automates categorisation of a law firm’s existing documents into a ready-to-use, easily searchable knowledge repository for reuse of legal research. <br> <br>
+>  [HOTDOCS-LAWCLOUD](https://plus.lawnet.sg/legal-apps/hotdocs-law-cloud) - A cloud-based document assembly software with an in-built client-matter structure. <br> <br>
 >  [LITERA MICROSYSTEMS](https://www.litera.com/) - A suite of document review and productivity applications. They include Contract Companion, a Microsoft Word toolbar that ensures documents meet quality standards; DocXtools, a robust way to help repair documents; and Clause Companion, a clause library for easy storage, retrieval and distribution of content. <br>
