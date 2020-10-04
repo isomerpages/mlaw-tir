@@ -2,7 +2,7 @@
 title: Impact On Legal Services
 permalink: /trends/impact-on-legal-services/
 ---
-### Based on the global trends identified, these were the expected changes in business demand for legal services.
+## Based on the global trends identified, these were the expected changes in business demand for legal services.
 
 # Increased Cybersecurity Demand <br>
 **COSTLY CYBERATTACKS** <br>
@@ -10,9 +10,9 @@ As global tensions rise, so have cybersecurity threats. These fallouts are costl
 **GROWTH OPPORTUNITIES** <br>
 Law firms like DLA Piper, Norton Rose Fulbright and Rajah & Tann already have a foot in this fast-growing market by looking to provide cybersecurity solutions. <br> <br>
 **US$173B**<br>
-Market value of the cybersecurity market in 2020. It is set to grow 7.2% annually over the next six years. <br>
+Market value of the cybersecurity market in 2020. It is set to grow 7.2% annually over the next six years. <br> <br>
 
-> “If legal departments are to keep using law firms, they must step up their cybersecurity measures.” - *Loretta Yuen, General Counsel, OCBC
+> “If legal departments are to keep using law firms, they must step up their cybersecurity measures.” - *Loretta Yuen, General Counsel, OCBC*
 
 # Increased Asian Demand for Legal Services <br>
 
@@ -28,9 +28,9 @@ Relationship-focused Asian businesses may increasingly eschew litigation in favo
 The rise of technology giants and impact of a global pandemic have reshaped consumer behaviour. Clients expect on-demand legal services that can be accessed anytime, anywhere. <br>
 
 **ADAPTING INTELLIGENTLY** <br>
-While global law firms can meet round-theclock demands through their international network of offices, smaller regional firms with manpower constraints must seek innovative methods. They stand to benefit most from tech-driven solutions. <br>
+While global law firms can meet round-theclock demands through their international network of offices, smaller regional firms with manpower constraints must seek innovative methods. They stand to benefit most from tech-driven solutions. <br> <br>
 
-> “Legal departments are already choosing tech solutions over external providers. The in-house counsel’s job is changing. They now also do what was previously done by external counsel.” - *Tan Zhifeng, Senior Associate, Allen & Gledhill LLP
+> “Legal departments are already choosing tech solutions over external providers. The in-house counsel’s job is changing. They now also do what was previously done by external counsel.” - *Tan Zhifeng, Senior Associate, Allen & Gledhill LLP*
 
 # Increase in Legal In-Sourcing <br>
 **RISE OF IN-HOUSE**<br>
@@ -53,4 +53,4 @@ If countries around the world split into U.S.- and Chinese-led blocs, the affili
 **ADAPTING TO THE DIVIDE**<br>
 Firms which want to serve both markets may have to change their operations systems, such as having to maintain separate localised databases for the two blocs. Meanwhile, law firms in neutral countries could have opportunities in serving as a crucial bridge between the two.<br> <br>
 
-> “In addition to trade restrictions, cross-border data flows may face data localisation measures as well. This nationalistic trend has started and will escalate in the next one to four years. We must act now.” - *Rajesh Sreenivasan, Head (Technology, Media & Telecommunications), Rajah & Tann Singapore LLP
+> “In addition to trade restrictions, cross-border data flows may face data localisation measures as well. This nationalistic trend has started and will escalate in the next one to four years. We must act now.” - *Rajesh Sreenivasan, Head (Technology, Media & Telecommunications), Rajah & Tann Singapore LLP*
