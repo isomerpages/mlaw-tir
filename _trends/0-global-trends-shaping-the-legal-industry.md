@@ -2,7 +2,7 @@
 title: Global Trends Shaping The Legal Industry
 permalink: /trends/global-trends-shaping-the-legal-industry/
 ---
-##**These were the five key global trends participants expected to have the most impact on the Singapore legal industry from now to 2030.**
+## These were the five key global trends participants expected to have the most impact on the Singapore legal industry from now to 2030.
 
 # Rise of Technology Giants
 Today, seven of the top ten firms globally by market capitalisation are technology firms. They continue to grow not just in size but also in reach. They have disrupted industries from transportation and F&B, to retail and hospitality. The legal industry is not immune.
