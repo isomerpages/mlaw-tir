@@ -4,7 +4,7 @@ permalink: /about-tir/introduction/
 ---
 
 # The Pressing Need for Transformation <br>
-The legal industry is a key part of Singapore’s economy. It generated S$2.4B in nominal gross value add and employed more than 13,000 professionals in 20191 . While the industry has endured for many decades, numerous challenges once on the horizon are now at its doorstep. On top of a global pandemic, there is disruption from artificial intelligence, blockchain, multi-disciplinary professional services networks and NewLaw entrants to the legal industry. These trigger changing customer behaviour, rising cost pressures and new demands of value, speed and flexibility from the industry. Against this backdrop, many firms have long recognised the need for action. 
+The legal industry is a key part of Singapore’s economy. It generated S$2.4B in nominal gross value add and employed more than 13,000 professionals in 2019. While the industry has endured for many decades, numerous challenges once on the horizon are now at its doorstep. On top of a global pandemic, there is disruption from artificial intelligence, blockchain, multi-disciplinary professional services networks and NewLaw entrants to the legal industry. These trigger changing customer behaviour, rising cost pressures and new demands of value, speed and flexibility from the industry. Against this backdrop, many firms have long recognised the need for action. 
 <br>
 
 > **2018 LawSoc Survey**<br>
