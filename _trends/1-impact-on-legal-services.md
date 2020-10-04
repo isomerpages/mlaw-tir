@@ -2,7 +2,7 @@
 title: Impact On Legal Services
 permalink: /trends/impact-on-legal-services/
 ---
-## Based on the global trends identified, these were the expected changes in business demand for legal services.
+#### Based on the global trends identified, these were the expected changes in business demand for legal services.
 
 # Increased Cybersecurity Demand <br>
 **COSTLY CYBERATTACKS** <br>
